@@ -1,4 +1,6 @@
-﻿namespace HotelListing.API.Data
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace HotelListing.API.Data
 {
     public class Country
     {
