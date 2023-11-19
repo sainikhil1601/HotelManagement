@@ -214,13 +214,13 @@ namespace HotelListing.API.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "79a840ab-c0aa-460c-8ff9-ce4332f1adb9",
+                            Id = "dba6347e-4fe4-4f9f-b9ab-ecdd6d2528c1",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         },
                         new
                         {
-                            Id = "56631052-82e6-4730-b248-f5b5aa1bb792",
+                            Id = "db2c8b9b-be85-499d-bbe0-752149f2544d",
                             Name = "User",
                             NormalizedName = "USER"
                         });

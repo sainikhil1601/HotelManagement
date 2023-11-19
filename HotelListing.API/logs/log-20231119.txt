@@ -1,0 +1,5 @@
+2023-11-19 10:32:26.224 +05:30 [INF] Now listening on: https://localhost:7290
+2023-11-19 10:32:26.271 +05:30 [INF] Now listening on: http://localhost:5006
+2023-11-19 10:32:26.275 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-19 10:32:26.277 +05:30 [INF] Hosting environment: Development
+2023-11-19 10:32:26.278 +05:30 [INF] Content root path: C:\Users\Sai Nikhil\Source\Repos\HotelListing.API\HotelListing.API
