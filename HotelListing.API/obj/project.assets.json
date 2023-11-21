@@ -12528,11 +12528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sai Nikhil\\Source\\Repos\\HotelListing.API\\HotelListing.API\\HotelListing.API.csproj",
+      "projectUniqueName": "C:\\Users\\Sai Nikhil\\Source\\Repos\\HotelManagement\\HotelListing.API\\HotelListing.API.csproj",
       "projectName": "HotelListing.API",
-      "projectPath": "C:\\Users\\Sai Nikhil\\Source\\Repos\\HotelListing.API\\HotelListing.API\\HotelListing.API.csproj",
+      "projectPath": "C:\\Users\\Sai Nikhil\\Source\\Repos\\HotelManagement\\HotelListing.API\\HotelListing.API.csproj",
       "packagesPath": "C:\\Users\\Sai Nikhil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sai Nikhil\\Source\\Repos\\HotelListing.API\\HotelListing.API\\obj\\",
+      "outputPath": "C:\\Users\\Sai Nikhil\\Source\\Repos\\HotelManagement\\HotelListing.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sai Nikhil\\AppData\\Roaming\\NuGet\\NuGet.Config",

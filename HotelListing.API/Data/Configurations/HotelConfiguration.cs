@@ -13,8 +13,8 @@ namespace HotelListing.API.Data.Configurations
                 {
 
                     Id = 1,
-                    Name = "Puma Resort",
-                    Address = "Puerto Viejo",
+                    Name = "yati",
+                    Address = "kakinada",
                     CountryId = 1,
                     Rating = 4.5
 
@@ -23,8 +23,8 @@ namespace HotelListing.API.Data.Configurations
                 {
 
                     Id = 2,
-                    Name = "Grand Idia",
-                    Address = "Blv B",
+                    Name = "town house",
+                    Address = "vizag",
                     CountryId = 2,
                     Rating = 3
 
@@ -34,7 +34,7 @@ namespace HotelListing.API.Data.Configurations
 
                     Id = 3,
                     Name = "Grand Resort",
-                    Address = "Osaka",
+                    Address = "hyderabad",
                     CountryId = 3,
                     Rating = 4
 
